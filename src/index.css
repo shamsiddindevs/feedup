@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+.bg-banner{
+  background-image: url(https://feedup.uz/_next/image?url=https%3A%2F%2Fcdn.zoomda.uz%2Fsliders%2F2026%2F05%2F07%2F1778146002702266909.jpg&w=1080&q=75);
+  background-size:  cover;
+}
+
+/* index.css fayli ichida */
+.scrollbar-hide::-webkit-scrollbar {
+    display: none;
+}
+.scrollbar-hide {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+}
